@@ -12,61 +12,21 @@
 ![](https://komarev.com/ghpvc/?username=xingjiabijichang)
 ---
 
-## 机场限时优惠
 
 
+## 一、龙猫云(15/月100G)
+优惠邀请地址:[点击进入](https://inv05.lmaff01.cc/register?aff=rcgYQdJC)
 
-### 青云梯
-
-双旦限时特惠
-
-👉全场 8 折（20% OFF）
-
-🏷优惠券码：**0080**
-
-⏰活动时间即日起 ～ 2026 年 1 月 30 日 23:59
-
-
-
-### 龙猫云 
-
-2026年双旦活动开启
-
-
-月付/季度付/半年付：85折优惠，优惠码： **totoro852026**
-
-年付/2年/3年付：8折优惠，优惠码： **totoro802026**
-
-优惠时间：即刻起 至 2026年1月25号23:59
-
-
-
-
----
-
-## 一、飞兔云(9.9/月118G)
-
-官网地址:[点击进入](https://xn--9kq10e0y7h.site/index.html?register=4ZoNj0zb)
-
-机场特色:签到送流量
-
-主观评价: 大型机场，80+多个节点，整体质量非常不错，IEPL专线+中转线路，冷门节点多，稳定性很不错，性价比也很可以，一次性套餐的价格算是比较便宜的。
-
-过境线路：深圳移动（广港专线）、佛山移动（中转）
+主观评价:运营挺长时间的全IPLC专线机场，各项指标都非常不错，口碑一直挺好的，客服解决问题的速度也很快。
 
 套餐价格:
-<img width="983" height="751" alt="image" src="https://github.com/user-attachments/assets/27e0f1d8-05ef-4539-b52c-dff4434869da" />
+![image](https://github.com/user-attachments/assets/daef4d22-3cea-4747-8df7-fd37b0961755)
 
-推荐购买人群：三网推荐
+推荐购买人群：其他省份的三网用户
 
-*最大带宽*
-- 热门节点 5Gbps
+不推荐人群：江苏用户 （用户反馈江苏移动不可用）
 
-  ![telegram-cloud-photo-size-5-6179470341735304291-w](https://github.com/user-attachments/assets/62e4e678-d430-4bb8-a106-263758c1c963)
-
-[飞兔云测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/%E9%A3%9E%E5%85%94%E4%BA%91.md)
-
-
+[龙猫云测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/%E9%BE%99%E7%8C%AB%E4%BA%91.md)
 
 
 
@@ -77,7 +37,7 @@
 
 
 
-官网地址:[点击进入](https://ivt01.qytaff.cc/register?aff=ymkMqBTU)
+优惠邀请地址入口:[点击进入](https://ivt02.qytaff.cc/register?aff=D0pUYi7Y)
 
 机场特色：全IPLC专线，原生IP解锁各大流媒体，三网优化，智能负载均衡(针对不同用户的本地实际网络分配最适合的入口和线路)。
 
@@ -104,25 +64,33 @@
 
 ---
 
-## 三、龙猫云(15/月100G)
-官网地址:[点击进入](https://liji3210.lmvipaff05.cc/register?aff=9QZ7Wx1m)
+## 三、飞兔云(9.9/月118G)
 
-主观评价:运营挺长时间的全IPLC专线机场，各项指标都非常不错，口碑一直挺好的，客服解决问题的速度也很快。
+官网地址:[点击进入](https://xn--9kq10e0y7h.site/index.html?register=4ZoNj0zb)
+
+机场特色:签到送流量
+
+主观评价: 大型机场，80+多个节点，整体质量非常不错，IEPL专线+中转线路，冷门节点多，稳定性很不错，性价比也很可以，一次性套餐的价格算是比较便宜的。
+
+过境线路：深圳移动（广港专线）、佛山移动（中转）
 
 套餐价格:
-![image](https://github.com/user-attachments/assets/daef4d22-3cea-4747-8df7-fd37b0961755)
+<img width="983" height="751" alt="image" src="https://github.com/user-attachments/assets/27e0f1d8-05ef-4539-b52c-dff4434869da" />
 
-推荐购买人群：其他省份的三网用户
+推荐购买人群：三网推荐
 
-不推荐人群：江苏用户 （用户反馈江苏移动不可用）
+*最大带宽*
+- 热门节点 5Gbps
 
-[龙猫云测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/%E9%BE%99%E7%8C%AB%E4%BA%91.md)
+  ![telegram-cloud-photo-size-5-6179470341735304291-w](https://github.com/user-attachments/assets/62e4e678-d430-4bb8-a106-263758c1c963)
+
+[飞兔云测速、解锁、线路分析详情](https://github.com/KaWaIDeSuNe/xingjiabijichang/blob/main/%E6%B5%8B%E8%AF%84/%E9%A3%9E%E5%85%94%E4%BA%91.md)
+
+
 
 
 
 ---
-
-
 
 ## 四、EF Network(8.9/月100G)
 
@@ -367,4 +335,3 @@ iOS：apple store搜索Shadowrocket、sing-box
 ## Star 历史
 
 ![Star History Chart](https://api.star-history.com/svg?repos=KaWaIDeSuNe/xingjiabijichang&type=Date)
-
